@@ -57,14 +57,14 @@
       <div class="row banner">
          <div class="banner-text">
             <h1 class="responsive-headline">I'm Shem Opiyo.</h1>
-            <h3>I'm a Graphic Designer, <span>Photographer,</span> <span></span> and <span>Programmer.</span><a class="smoothscroll" href="#about"> Scroll</a>
+            <h3>I am passionate to Design, <span>Photography,</span> <span></span> and <span>Programming.</span><a class="smoothscroll" href="#about"> Scroll</a>
             and learn more <a class="smoothscroll" href="#about">about me</a>.</h3>
             <hr />
             <ul class="social">
                <li><a href="https://www.facebook.com/shem.shemas" target=_blank><i class="fa fa-facebook"></i></a></li>
                <li><a href="https://twitter.com/shemshemas" target=_blank><i class="fa fa-twitter"></i></a></li>
                <li><a href="https://www.linkedin.com/in/shem-opiyo-2b5519162/" target=_blank><i class="fa fa-linkedin"></i></a></li>
-               <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+               
                
                
             </ul>
@@ -781,12 +781,11 @@
 
             <ul class="social-links">
                <li><a href="https://www.facebook.com/shem.shemas"><i class="fa fa-facebook"></i></a></li>
-               <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-               <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-               <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-               <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-               <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-               <li><a href="#"><i class="fa fa-skype"></i></a></li>
+               <li><a href="https://twitter.com/shemshemas" target=_blank"><i class="fa fa-twitter"></i></a></li>
+               <li><a href="https://www.linkedin.com/in/shem-opiyo-2b5519162/" target=_blank"><i class="fa fa-linkedin"></i></a></li>
+               
+               
+               
             </ul>
 
             <ul class="copyright">
