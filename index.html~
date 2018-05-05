@@ -324,7 +324,7 @@ REFERENCES.
           	   <div class="columns images-item">
                   <div class="item-wrap">
 
-                     <a href="#modal-01" title="">
+                     <a href="#modal-01" title=""
                         <img alt="" src="images/otile.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
@@ -342,7 +342,7 @@ REFERENCES.
                   <div class="item-wrap">
 
                      <a href="#modal-02" title="">
-                       	<imag alt="" src="images/screenshot.png">
+                       	<imag alt="" src="images/screenshot.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
           					      <h5>Miss the ball</h5>
@@ -351,20 +351,19 @@ REFERENCES.
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
                      </a>
-			<!-- Images in Html --> <img src="" alt="alternative text">
 			
                   </div>
           		</div> <!-- item end -->
 
-               <div class="columns portfolio-item">
+               <div class="columns images-item">
                   <div class="item-wrap">
 
                      <a href="#modal-03" title="">
-                        <img alt="" src="images/portfolio/judah.jpg">
+                        <img alt="" src="images/test.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>Judah</h5>
-                              <p>Webdesign</p>
+          					      <h5>photo</h5>
+                              <p>Photography</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
@@ -377,11 +376,11 @@ REFERENCES.
                   <div class="item-wrap">
 
                      <a href="#modal-04" title="">
-                        <img alt="" src="images/portfolio/into-the-light.jpg">
+                        <img alt="" src="images/drawing-2.png">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>Into The Light</h5>
-                              <p>Photography</p>
+          					      <h5>Banner</h5>
+                              <p>Gimp</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
