@@ -338,11 +338,11 @@ REFERENCES.
                   </div>
           		</div> <!-- item end -->
 
-               <div class="columns portfolio-item">
+               <div class="columns images-item">
                   <div class="item-wrap">
 
                      <a href="#modal-02" title="">
-                       
+                       	<imag alt="" src="images/screenshot.png">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
           					      <h5>Miss the ball</h5>
