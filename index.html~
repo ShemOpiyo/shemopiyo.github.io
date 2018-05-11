@@ -85,7 +85,7 @@
 
          <div class="three columns">
 
-            <img class="profile-pic"  src="shemko.jpg" alt="" />
+            <img class="profile-pic"  src="images/shemas.jpg" alt="" />
 
          </div>
 
@@ -225,7 +225,7 @@
 
          <div class="nine columns main-col">
 
-            <p>This is how my Skills are rated.
+            <p>This is how i rate my skills.
             </p>
 
 				<div class="bars">
@@ -265,11 +265,11 @@
                   <div class="item-wrap">
 
                      <a href="modal-01" title="">
-                        <img alt="" src="images/otile.jpg">
+                        <img alt="" src="images/screenshot.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>Otile Brown</h5>
-                              <p>Gimp</p>
+          					      <h5>Miss the ball</h5>
+                              <p>Scratch</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
