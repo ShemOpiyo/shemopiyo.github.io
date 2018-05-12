@@ -264,7 +264,7 @@
           	   <div class="columns images-item">
                   <div class="item-wrap">
 
-                     <a href="modal-01" title="">
+                     <a href="images/shemko.sb" title="">
                         <img alt="" src="images/screenshot.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
@@ -510,11 +510,11 @@
 
 		      <div class="description-box">
 			     </p>
-               <span class="categories"><i class="fa fa-tag"></i>Branding, Illustration</span>
+               <span class="categories"><i class="fa fa-tag"></i>Mobile Photography Website</span>
 		      </div>
 
             <div class="link-box">
-               <a href="http://www.behance.net" target="_blank">Details</a>
+               <a href="http://192.168.0.254/MobilePhotography/" target="_blank">Details</a>
 		         <a class="popup-modal-dismiss">Close</a>
             </div>
 
