@@ -264,7 +264,7 @@
           	   <div class="columns images-item">
                   <div class="item-wrap">
 
-                     <a href="images/shemko.sb" title="">
+                     <a href="#modal-01" title="">
                         <img alt="" src="images/screenshot.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
@@ -278,16 +278,17 @@
                   </div>
           		</div> <!-- item end -->
 
-               <div class="columns images-item">
+		 <div class="columns portfolio-item">
                   <div class="item-wrap">
 
-                     <a href="#modal-02" title="">
-                       	<imag alt="" src="images/screenshot.jpg">
+                     <a href="#modal-07" title="">
+                        <img alt="" src="images/web.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>Miss the ball</h5>
-                              <p>Scratch</p>
+          					      <h5>Web Development</h5>
+                              <p>Screenshot</p>
           					   </div>
+
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
                      </a>
