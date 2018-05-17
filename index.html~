@@ -413,11 +413,11 @@
 		      <div class="description-box">
 			      <h4>Scratch Project</h4>
 			     
-               <span class="categories"><i class="fa fa-tag"></i>Branding, Webdesign</span>
+               <span class="categories"><i class="fa fa-tag"></i>Scratch</span>
 		      </div>
 
             <div class="link-box">
-               <a href="http://www.behance.net" target="_blank">Details</a>
+               <a href="https://github.com/ShemOpiyo/my_scratch_project" target="_blank">Details</a>
 		         <a class="popup-modal-dismiss">Close</a>
             </div>
 
@@ -445,8 +445,8 @@
 		      <img class="scale-with-grid" src="images/portfolio/modals/m-judah.jpg" alt="" />
 
 		      <div class="description-box">
-			      <h4>Judah</h4>
-			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+			      <h4>Logo</h4>
+			      
                <span class="categories"><i class="fa fa-tag"></i>Branding</span>
 		      </div>
 
@@ -495,7 +495,7 @@
 
 		      <div class="description-box">
 			     </p>
-               <span class="categories"><i class="fa fa-tag"></i>Photography</span>
+               <span class="categories"><i class="fa fa-tag"></i>Business Card</span>
 		      </div>
 
             <div class="link-box">
