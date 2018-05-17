@@ -364,15 +364,15 @@
                   </div>
           		</div> <!-- item end -->
 
-               <div class="columns portfolio-item">
+                <div class="columns portfolio-item">
                   <div class="item-wrap">
 
-                     <a href="#modal-07" title="">
-                        <img alt="" src="images/web.jpg">
+                     <a href="#modal-06" title="">
+                        <img alt="" src="images/otile.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>Web Development</h5>
-                              <p>Screenshot</p>
+          					      <h5>Poster</h5>
+                              <p>Gimp</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
@@ -411,8 +411,8 @@
 		      <img class="scale-with-grid" src="images/portfolio/modals/m-coffee.jpg" alt="" />
 
 		      <div class="description-box">
-			      <h4>Otile</h4>
-			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+			      <h4>Scratch Project</h4>
+			     
                <span class="categories"><i class="fa fa-tag"></i>Branding, Webdesign</span>
 		      </div>
 
