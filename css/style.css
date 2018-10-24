@@ -45,6 +45,7 @@
 		a:hover {
 			border-color: transparent;
 		}
+}
 
 /* Icon */
 
@@ -63,6 +64,9 @@
 
 		.icon > .label {
 			display: none;
+		}
+		.logo {
+			float: left;
 		}
 
 /* Wrapper */
