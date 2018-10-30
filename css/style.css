@@ -476,24 +476,9 @@ div#preloader {
   color: #000;
 }
 
-.single-well>a {
-  display: block;
-}
-
-.single-well ul li {
-  color: #444;
-  display: block;
-  padding: 5px 0;
-}
-
-.single-well ul li i {
-  color: #3EC1D5;
-  padding-right: 10px;
-  font-size: 12px;
-}
-
 .single-well p {
   color: #444;
+  font-size: 20px;
 }
 
 /*--------------------------------*/
